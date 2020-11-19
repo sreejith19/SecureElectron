@@ -1,1 +1,3 @@
 # SecureElectron
+
+Secure Electron project
